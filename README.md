@@ -1,19 +1,21 @@
 # 🌸 Iasmin Oliveira | Tech.Ias 
 
-## 💡Sobre mim
+## 💡 Sobre mim
 
 - Desenvolvedora **Full Stack** em formação, unindo código e criatividade para transformar ideias em experiências digitais.  
 - Estudante de **Sistemas e Mídias Digitais** na **Universidade Federal do Ceará (UFC)**.  
 - Explorando o universo de **JavaScript, UX/UI Design e automação**, sempre buscando novas formas de aprender e inovar.  
-- No meu instagram **Tech.Ias**, compartilho conhecimento, bastidores da vida dev e incentivo mais pessoas, especialmente mulheres, a acreditarem no seu potencial na área de tecnologia.  
+- No meu Instagram **[@tech.ias](https://instagram.com/tech.ias/)**, compartilho conhecimento, bastidores da vida dev e incentivo mais pessoas, especialmente mulheres, a acreditarem no seu potencial na área de tecnologia.  
+- Gosto de transformar ideias em **experiências digitais com significado**, explorando desde o **front-end até o design centrado no usuário**.  
+- Nos meus códigos, busco **beleza e funcionalidade**; nos meus designs, **lógica e empatia**. 💖  
 - Entre uma linha de código e outra, estou sempre com uma xícara de café, criando algo novo e contando histórias que conectam.  
 
 #### 🌟 Curiosidades sobre mim  
 
-- Adoro jogar **vôlei** nas horas livres 
-- Tenho **três cachorras incríveis** 
-- Gosto de montar **quebra-cabeças e cubos mágicos**
-- Sou fascinada por **True Crime**  
+- 🏐 Adoro jogar **vôlei** nas horas livres  
+- 🐶 Tenho **três cachorras incríveis**  
+- 🧩 Gosto de montar **quebra-cabeças e cubos mágicos**  
+- 🕵️‍♀️ Sou fascinada por **True Crime**  
 
 ## 🧠 Minhas principais skills
 - Front-End Development  
@@ -21,6 +23,32 @@
 - Design de Interfaces  
 - Lógica de Programação  
 - Criatividade e Comunicação Visual  
+
+---
+
+## 💡 About me
+
+- **Full Stack Developer** in training, combining code and creativity to turn ideas into digital experiences.  
+- Student of **Digital Media Systems** at the **Federal University of Ceará (UFC)**.  
+- Exploring the world of **JavaScript, UX/UI Design, and automation**, always seeking new ways to learn and innovate.  
+- On my Instagram **[@tech.ias](https://instagram.com/tech.ias/)**, I share knowledge, dev life insights, and encourage more people, especially women, to believe in their potential in tech.  
+- I love transforming ideas into **meaningful digital experiences**, exploring everything from **front-end to user-centered design**.  
+- In my code, I seek **beauty and functionality**; in my designs, **logic and empathy**. 💖  
+- Between one line of code and another, I’m always with a cup of coffee, creating something new and telling stories that connect.  
+
+#### 🌟 Fun facts about me  
+
+- 🏐 I love playing **volleyball** in my free time  
+- 🐶 I have **three amazing dogs**  
+- 🧩 I enjoy solving **puzzles and Rubik’s cubes**  
+- 🕵️‍♀️ I’m fascinated by **True Crime**  
+
+## 🧠 My core skills  
+- Front-End Development  
+- UX/UI Design  
+- Interface Design  
+- Programming Logic  
+- Creativity & Visual Communication
 
 ## 🧩 Tecnologias & Ferramentas
 
@@ -70,11 +98,12 @@
 
 ## 🌐 Social
 <div>
-  <a href="https://instagram.com/tech.ias/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-FFFFFF?style=for-the-badge&logo=instagram&logoColor=368C93&color=EFF1F5" target="_blank"></a>
-  <a href="https://www.twitch.tv/seu-usuário-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Twitch-FFFFFF?style=for-the-badge&logo=twitch&logoColor=368C93&color=EFF1F5" target="_blank"></a>
-  <a href = "mailto:iasminolisena@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=368C93&color=EFF1F5" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/iasmin-oliveira-e-sena-945882200/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=368C93&color=EFF1F5" target="_blank"></a>   
+  <a href="https://instagram.com/tech.ias/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-FFFFFF?style=for-the-badge&logo=instagram&logoColor=368C93&color=EFF1F5"></a>
+  <a href="mailto:iasminolisena@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=368C93&color=EFF1F5"></a>
+  <a href="https://www.linkedin.com/in/iasmin-oliveira-e-sena-945882200/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=368C93&color=EFF1F5"></a>   
 </div>
+
+---
 
 ## 📈 GitHub Stats
 <div>
