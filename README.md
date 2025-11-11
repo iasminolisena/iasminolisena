@@ -103,8 +103,6 @@
   <a href="https://www.linkedin.com/in/iasmin-oliveira-e-sena-945882200/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=368C93&color=EFF1F5"></a>   
 </div>
 
----
-
 ## 📈 GitHub Stats
 <div>
   <a href="https://github.com/iasminolisena">
