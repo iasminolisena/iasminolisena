@@ -97,12 +97,3 @@
   <a href="mailto:iasminolisena@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=368C93&color=EFF1F5"></a>
   <a href="https://www.linkedin.com/in/iasmin-oliveira-e-sena-945882200/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=368C93&color=EFF1F5"></a>   
 </div>
-
-## 📈 GitHub Stats
-<div>
-  <a href="https://github.com/iasminolisena">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iasminolisena&layout=compact&langs_count=7&theme=catppuccin_latte"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=iasminolisena&show_icons=true&theme=catppuccin_latte&include_all_commits=true&count_private=true"/>
-</div>
-
-🌸 *“Criando com propósito, aprendendo com paixão.”* — **Iasmin Oliveira**
